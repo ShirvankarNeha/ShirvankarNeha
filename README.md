@@ -9,5 +9,4 @@
 - Backend development with Spring Boot
 
 📫 Connect with me:
-- LinkedIn: your-link
-
+- LinkedIn:  https://www.linkedin.com/in/neha-shirvankar-a815a9265 
